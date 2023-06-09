@@ -10,10 +10,15 @@ Thiết Kế Giao Diện - 20KTPM1 - Group 15
 Đề tài : Website nghe nhạc trực tuyến
 
 #1: Download NodeJS https://nodejs.org/en/download
+
 #2: Vào thư mục 20KTPM1-TKDD-Project chạy command npm create vite@latest
-Project name: Music-Website
-Select a framework: React
-Select a variant: JavaScript
-#3: Chạy command cd .\Music-Website\
+
+##1.Project name: Music-Website
+##2.Select a framework: React
+##3.Select a variant: JavaScript
+
+#3: Chạy command cd Music-Website
+
 #4: Chạy command npm install
+
 #5: Chạy command npm run dev

@@ -1,0 +1,49 @@
+/* back ground of page */
+.App {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: -.02em;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.title, .subTitle {
+    text-align: center;
+}
+
+.music_playing_area {
+    margin-right: 0;
+    margin-left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.lyric_playing_area {
+    margin-left: 25px;
+}
+
+.playButton, .nav_music_area_left_button {
+    background: transparent;
+    border: none;
+    align-items: center;
+    justify-content: center;
+  }
+
+.nav_music_area {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+
